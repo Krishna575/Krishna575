@@ -1,37 +1,43 @@
 <h1 align="center">Krishnakumar Chinthakunta</h1>
-<h3 align="center">Data Science Undergraduate • ML Enthusiast • Software Developer</h3>
+<h3 align="center">Data Science Undergraduate • Machine Learning • Software Development</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Engineer;Machine+Learning+Explorer;Python+Developer;Future+AI+Innovator&center=true&width=600&height=45">
+  Data Science • AI • Backend Development • Analytics
 </p>
 
-<!-- ROW 1 : STATS DASHBOARD -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Krishna575&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna575&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna575&theme=tokyonight&hide_border=true" height="165"/>
+  <a href="mailto:krishnakumarchinthakunta608@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/krishnakumar-chinthakunta-935317352/">LinkedIn</a> •
+  <a href="https://github.com/Krishna575">GitHub</a>
 </p>
 
 ---
 
-<!-- ROW 2 : PROFILE SUMMARY -->
-<h2 align="center">🧠 Tech • 🚀 Projects • 💼 About</h2>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,sqlite,git,github,vscode,pycharm" />
+🎓 B.Tech Data Science Student passionate about solving real-world problems using data  
+🧠 Strong foundation in Statistics, DBMS, and Programming  
+🚀 Building projects in Machine Learning, Analytics, and Software Development  
+🎯 Seeking internship opportunities in Data Science & Software roles
 </p>
 
-<p align="center">
-🧠 AI Sentiment Analysis Web App • Streamlit + LLMs  
-🛒 Sales & Products Management System • Python + SQLite  
-📊 Passionate about Data Science, ML & Analytics  
-🚀 Seeking Data Science & Software Internships
-</p>
+---
 
 <p align="center">
+<strong>TECH STACK</strong><br>
+Python • C • C++ • Java • SQL • SQLite • Git • GitHub • VS Code • Jupyter  
 Power BI • Tableau • Matplotlib • ggplot2 • EDA • Regression • NLP Basics
 </p>
 
+---
+
 <p align="center">
-⭐ Transforming data into impactful solutions
+<strong>PROJECTS</strong><br>
+🧠 AI-Powered Sentiment Analysis Web Application — Streamlit + LLMs  
+🛒 Sales & Products Management System — Python + SQLite DBMS
+</p>
+
+---
+
+<p align="center">
+⭐ Continuously learning, building, and preparing for a career in Data Science & Software Engineering
 </p>
