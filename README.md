@@ -1,111 +1,86 @@
-<!-- PROFILE HEADER -->
 <h1 align="center">Krishnakumar Chinthakunta</h1>
-<h3 align="center">Data Science Undergraduate • Machine Learning Enthusiast • Software Developer</h3>
+<h3 align="center">Data Science Undergraduate • ML Enthusiast • Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Engineer+in+Progress;Machine+Learning+Explorer;Python+Backend+Developer;Future+AI+Innovator&center=true&width=600&height=45">
-</p>
-
-<p align="center">
-  <a href="mailto:krishnakumarchinthakunta608@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/krishnakumar-chinthakunta-935317352/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Krishna575"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Engineer;Machine+Learning+Explorer;Python+Developer;Future+AI+Innovator&center=true&width=600&height=45">
 </p>
 
 ---
 
-# 💼 Professional Summary
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🎓 B.Tech Data Science student passionate about transforming data into actionable insights.  
-📊 Strong foundation in statistics, machine learning, and database systems.  
-🧠 Focused on building scalable software solutions powered by data.  
-🚀 Actively seeking internship opportunities in Data Science & Software Development.
+## 💼 About Me
+🎓 B.Tech Data Science Student  
+📊 Passionate about Data Science & AI  
+🧠 Strong in DBMS, Statistics & Programming  
+🚀 Seeking Data Science & Software Internships  
 
----
+## 🧠 Core Skills
+✔ Data Analysis  
+✔ Machine Learning  
+✔ Backend Development  
+✔ Database Design  
+✔ Problem Solving  
 
-# 🧠 Core Competencies
+## 📫 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Krishna575)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishnakumar-chinthakunta-935317352/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:krishnakumarchinthakunta608@gmail.com)
 
-✔ Data Analysis & Visualization  
-✔ Machine Learning Fundamentals  
-✔ Backend Development (Python)  
-✔ Database Design & Optimization  
-✔ Problem Solving & Algorithmic Thinking  
+</td>
+<td width="50%" valign="top">
 
----
+## 🛠️ Tech Stack
 
-# 🛠️ Technical Stack
-
-## 👨‍💻 Programming Languages
-<p>
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
-</p>
 
-## 🗄️ Databases
-<p>
+### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
 
-## 📊 Data Science & Visualization
-EDA • Regression • Statistical Analysis • NLP Basics  
-Power BI • Tableau • Matplotlib • ggplot2  
-
-## ⚙️ Tools & Platforms
-<p>
+### ⚙️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-</p>
 
----
+## 📊 Visualization
+Power BI • Tableau • Matplotlib • ggplot2
 
-# 🚀 Featured Projects
+</td>
+</tr>
 
-## 🧠 AI-Powered Sentiment Analysis Web Application
-• Streamlit-based web app using LLMs  
-• Real-time sentiment prediction with confidence scoring  
-• Demonstrates NLP and deployment skills  
+<tr>
+<td width="50%" valign="top">
 
-## 🛒 Sales and Products Management System
-• Python + SQLite DBMS-based application  
-• Inventory tracking and sales analytics  
-• Practical implementation of database concepts  
+## 🚀 Featured Projects
 
----
+🧠 **Sentiment Analysis Web App**  
+Streamlit app using LLMs for sentiment detection.
 
-# 📜 Certifications & Learning
+🛒 **Sales & Products Management System**  
+Python + SQLite DBMS-based inventory system.
 
-🎓 Infosys Springboard — Python & Big Data  
-🎓 Deloitte Cyber Job Simulation  
-🎓 Udemy Tableau Certification  
-🎓 NPTEL — Introduction to Internet of Things  
+## 📜 Certifications
+• Infosys Springboard — Python & Big Data  
+• Deloitte Cyber Job Simulation  
+• Udemy Tableau Certification  
+• NPTEL — IoT  
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna575&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna575&theme=tokyonight&hide_border=true">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Krishna575&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna575&layout=compact&theme=tokyonight&hide_border=true">
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna575&theme=tokyonight&hide_border=true"/>
 
----
-
-# 🎯 Current Focus
-
-📌 Deepening Machine Learning expertise  
-📌 Building production-level data science projects  
-📌 Preparing for software & analytics roles  
-
----
-
-# ⭐ Personal Mission
-
-> To leverage data, algorithms, and software engineering to solve meaningful real-world problems and create impactful technology solutions.
+</td>
+</tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+⭐ Building projects to become a Data Scientist & Software Engineer
 </p>
