@@ -1,30 +1,24 @@
-<!-- HERO HEADER -->
-<h1 align="center">Krishnakumar Chinthakunta</h1>
-<h3 align="center">Data Science Undergraduate • ML Enthusiast • Software Developer</h3>
+<!-- HERO BANNER (ANIMATED GRADIENT) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Krishnakumar%20Chinthakunta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20ML%20Enthusiast%20%7C%20Software%20Developer&descAlignY=58&descAlign=50"/>
+</p>
 
+<!-- ANIMATED TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Science+Engineer+in+Progress;Machine+Learning+Explorer;Python+Backend+Developer;Future+AI+Innovator" />
 </p>
 
 ---
 
-<!-- DASHBOARD ROW 1 -->
+<!-- DASHBOARD ROW -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna575&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna575&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna575&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna575&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-<!-- DASHBOARD ROW 2 -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Krishna575&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishna575&theme=tokyonight&no-frame=true&row=1&column=6" height="170"/>
-</p>
-
----
-
-<!-- SKILLS DASHBOARD -->
+<!-- TECH STACK -->
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
@@ -37,11 +31,11 @@ Power BI • Tableau • Matplotlib • ggplot2 • EDA • Regression • NLP B
 
 ---
 
-<!-- PROJECTS SNAPSHOT -->
+<!-- PROJECT SNAPSHOT -->
 <h2 align="center">🚀 Projects Snapshot</h2>
 
 <p align="center">
-🧠 AI Sentiment Analysis Web App — Streamlit + LLMs <br>
+🧠 AI-Powered Sentiment Analysis Web App — Streamlit + LLMs <br>
 🛒 Sales & Products Management System — Python + SQLite DBMS
 </p>
 
@@ -49,11 +43,25 @@ Power BI • Tableau • Matplotlib • ggplot2 • EDA • Regression • NLP B
 
 <!-- ABOUT STRIP -->
 <p align="center">
-🎓 B.Tech Data Science Student • 📊 AI & Analytics • 🚀 Seeking Internships
+🎓 B.Tech Data Science Student • 📊 Passionate about AI & Analytics • 🚀 Seeking Internships
+</p>
+
+---
+
+<!-- CONTACT -->
+<p align="center">
+  <a href="mailto:krishnakumarchinthakunta608@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/krishnakumar-chinthakunta-935317352/">LinkedIn</a> •
+  <a href="https://github.com/Krishna575">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
 ⭐ Transforming data into intelligent solutions
+</p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
