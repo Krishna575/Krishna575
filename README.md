@@ -1,6 +1,6 @@
 <!-- HERO BANNER WITH MOTTO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a2980,100:26d0ce&height=210&section=header&text=Krishnakumar%20Chinthakunta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20ML%20Enthusiast%20%7C%20Software%20Developer%20%7C%20LIVE%20%E2%80%A2%20LEARN%20%E2%80%A2%20LEAD&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a2980,100:26d0ce&height=210&section=header&text=Krishnakumar%20Chinthakunta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20ML%20Enthusiast%20%7C%20Software%20Developer%20descAlign=50"/>
 </p>
 
 <!-- ANIMATED TYPING -->
@@ -43,4 +43,8 @@ Power BI • Tableau • Matplotlib • ggplot2 • EDA • Regression • NLP B
 
 <p align="center">
 ⭐ Transforming data into intelligent solutions
+</p>
+<!-- FOOTER MOTTO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,50:1a2980,100:0f2027&height=170&section=footer&text=LIVE%20%E2%80%A2%20LEARN%20%E2%80%A2%20LEAD&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 </p>
