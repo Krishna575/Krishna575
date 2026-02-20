@@ -1,6 +1,6 @@
-<!-- HERO BANNER WITH MOTTO -->
+<!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a2980,100:26d0ce&height=210&section=header&text=Krishnakumar%20Chinthakunta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20ML%20Enthusiast%20%7C%20Software%20Developer/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a2980,100:26d0ce&height=210&section=header&text=Krishnakumar%20Chinthakunta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20ML%20Enthusiast%20%7C%20Software%20Developer&descAlignY=60&descAlign=50"/>
 </p>
 
 <!-- ANIMATED TYPING -->
@@ -36,7 +36,7 @@ Power BI • Tableau • Matplotlib • ggplot2 • EDA • Regression • NLP B
 ---
 
 <p align="center">
-  <a href="krishnakumarchinthakunta608@gmail.com">Email</a> •
+  <a href="mailto:krishnakumarchinthakunta608@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/krishnakumar-chinthakunta-935317352/">LinkedIn</a> •
   <a href="https://github.com/Krishna575">GitHub</a>
 </p>
@@ -44,6 +44,7 @@ Power BI • Tableau • Matplotlib • ggplot2 • EDA • Regression • NLP B
 <p align="center">
 ⭐ Transforming data into intelligent solutions
 </p>
+
 <!-- FOOTER MOTTO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,50:1a2980,100:0f2027&height=170&section=footer&text=LIVE%20%E2%80%A2%20LEARN%20%E2%80%A2%20LEAD&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
