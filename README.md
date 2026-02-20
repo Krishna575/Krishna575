@@ -1,4 +1,4 @@
-<!-- HERO BANNER (ANIMATED GRADIENT) -->
+<!-- HERO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Krishnakumar%20Chinthakunta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20ML%20Enthusiast%20%7C%20Software%20Developer&descAlignY=58&descAlign=50"/>
 </p>
@@ -10,10 +10,9 @@
 
 ---
 
-<!-- DASHBOARD ROW -->
+<!-- ABOUT STRIP -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna575&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna575&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+🎓 B.Tech Data Science Student • 📊 Passionate about AI & Analytics • 🚀 Seeking Internships
 </p>
 
 ---
@@ -41,13 +40,6 @@ Power BI • Tableau • Matplotlib • ggplot2 • EDA • Regression • NLP B
 
 ---
 
-<!-- ABOUT STRIP -->
-<p align="center">
-🎓 B.Tech Data Science Student • 📊 Passionate about AI & Analytics • 🚀 Seeking Internships
-</p>
-
----
-
 <!-- CONTACT -->
 <p align="center">
   <a href="mailto:krishnakumarchinthakunta608@gmail.com">Email</a> •
@@ -61,7 +53,7 @@ Power BI • Tableau • Matplotlib • ggplot2 • EDA • Regression • NLP B
 ⭐ Transforming data into intelligent solutions
 </p>
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
